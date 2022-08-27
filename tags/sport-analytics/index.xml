@@ -6,15 +6,25 @@
     <description>Recent content in sport-analytics on Hugo Apéro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sport-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sport-analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DIY Dangerousity</title>
-      <link>/project/dangerousity/</link>
-      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <title>Characterising Forward-Line Formations in the Australian Football League</title>
+      <link>/project/2022-08-26-formations/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/project/dangerousity/</guid>
-      <description>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver.</description>
+      <guid>/project/2022-08-26-formations/</guid>
+      <description> Work in progress. Project is the final year thesis for the Master of Sport Analytics at La Trobe University. </description>
+    </item>
+    
+    <item>
+      <title>Computer Vision in Sport</title>
+      <link>/project/2022-11-03-computer-vision-in-sport/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2022-11-03-computer-vision-in-sport/</guid>
+      <description>Original Video This project involved using optical tracking of players in a small-sided game to generate various animations and overlays.
+The original video below, a small-sided game played among students for the purpose of tracking later with local positioning system (LPS) and optical tracking technologies.
+LPS Tracked Overlay LPS tracking was used to generate a local coordinate system. Using some coordinate transformations, these were able to be overlayed back onto the video, with mixed results.</description>
     </item>
     
     <item>
@@ -23,7 +33,7 @@ Well, technology sure has come a long way since slicing up images to match the t
       <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/2021-10-02-diy-dangerousity/</guid>
-      <description>Task 1 - Dangerousity Equation Link et al. [1] introduced the idea of dangerousity in their paper entitled Real-Time Quantification of Dangerousity in Soccer Using Spatiotemporal Tracking Data. Dangerousity can be referred to as the “quantitative representation of the likelihood of a goal”. This concept attempts to explain the scoring opportunity at any time a player possesses the ball (the paper explores dangerousity through soccer). Various contextual measures formulated together create this metric.</description>
+      <description> This project is currently under assessment for the current cohort of Master of Sport Analytics students at La Trobe University. Project is available upon request during this time. </description>
     </item>
     
   </channel>
