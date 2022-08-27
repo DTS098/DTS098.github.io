@@ -38,13 +38,37 @@
     <loc>/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <loc>/tags/afl/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/australian-rules-football/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/dangerousity/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/2021-10-02-diy-dangerousity/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/sport-analytics/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sport-analytics/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/social/</loc>
@@ -60,9 +84,6 @@
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/collection/</loc>
@@ -125,23 +146,17 @@
     <loc>/talk/seedling/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/blog/css-grid-scaffold/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/penguins/</loc>
+    <loc>/categories/package/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>/project/computer_vision/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/formations/</loc>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>

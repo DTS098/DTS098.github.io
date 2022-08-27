@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AFL on Hugo Apéro</title>
+    <link>/tags/afl/</link>
+    <description>Recent content in AFL on Hugo Apéro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/afl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DIY Dangerousity</title>
+      <link>/project/dangerousity/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/dangerousity/</guid>
+      <description>Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.
+Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver.</description>
+    </item>
+    
+    <item>
+      <title>DIY Dangerousity in the AFL</title>
+      <link>/project/2021-10-02-diy-dangerousity/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2021-10-02-diy-dangerousity/</guid>
+      <description>Task 1 - Dangerousity Equation Link et al. [1] introduced the idea of dangerousity in their paper entitled Real-Time Quantification of Dangerousity in Soccer Using Spatiotemporal Tracking Data. Dangerousity can be referred to as the “quantitative representation of the likelihood of a goal”. This concept attempts to explain the scoring opportunity at any time a player possesses the ball (the paper explores dangerousity through soccer). Various contextual measures formulated together create this metric.</description>
+    </item>
+    
+  </channel>
+</rss>
