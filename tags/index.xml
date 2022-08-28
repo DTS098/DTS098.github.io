@@ -43,5 +43,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>image-classification</title>
+      <link>/tags/image-classification/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/image-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>object-detection</title>
+      <link>/tags/object-detection/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/object-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

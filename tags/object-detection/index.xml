@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>object-detection on Hugo Apéro</title>
+    <link>/tags/object-detection/</link>
+    <description>Recent content in object-detection on Hugo Apéro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/object-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision in Sport</title>
+      <link>/project/2022-11-03-computer-vision-in-sport/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2022-11-03-computer-vision-in-sport/</guid>
+      <description>Original Video This project involved using optical tracking of players in a small-sided game to generate various animations and overlays.
+The original video below, a small-sided game played among students for the purpose of tracking later with local positioning system (LPS) and optical tracking technologies.
+LPS Tracked Overlay LPS tracking was used to generate a local coordinate system. Using some coordinate transformations, these were able to be overlayed back onto the video, with mixed results.</description>
+    </item>
+    
+  </channel>
+</rss>
