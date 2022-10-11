@@ -33,7 +33,7 @@ LPS Tracked Overlay LPS tracking was used to generate a local coordinate system.
       <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/2021-10-02-diy-dangerousity/</guid>
-      <description> This project is currently under assessment for the current cohort of Master of Sport Analytics students at La Trobe University. Project is available upon request during this time. </description>
+      <description>Task 1 - Dangerousity Equation Link et al. [1] introduced the idea of dangerousity in their paper entitled Real-Time Quantification of Dangerousity in Soccer Using Spatiotemporal Tracking Data. Dangerousity can be referred to as the “quantitative representation of the likelihood of a goal”. This concept attempts to explain the scoring opportunity at any time a player possesses the ball (the paper explores dangerousity through soccer). Various contextual measures formulated together create this metric.</description>
     </item>
     
   </channel>
