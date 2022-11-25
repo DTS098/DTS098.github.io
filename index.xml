@@ -6,7 +6,7 @@
     <description>Recent content in Daylon Seakins on Hugo Apéro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -87,6 +87,17 @@ My content section is: collection My layout is: single-series part 2! does this 
     </item>
     
     <item>
+      <title>Discovery and Characterisation of Forward-Line Formations at Centre Bounces in the Australian Football League</title>
+      <link>/project/2022-08-26-formations/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/project/2022-08-26-formations/</guid>
+      <description>Project is the final year thesis for the Master of Sport Analytics at La Trobe University. It is currently unavailable due to sensitive information. Feel free to contact me regarding any questions. See below for some example plots. Figure 1: Metrics captured in one stage of the analysis.
+Figure 2: Latter method of assessing differences between centre bounces.
+Figure 3: Proportional use of positions by anonymised teams in their forward lines at centre bounces.</description>
+    </item>
+    
+    <item>
       <title>Daylon Seakins Resume September 2022</title>
       <link>/resume/2022-09-28-daylon-seakins-resume/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
@@ -102,15 +113,6 @@ My content section is: collection My layout is: single-series part 2! does this 
       
       <guid>/resume/2022-08-27-daylon-seakins-resume/</guid>
       <description> </description>
-    </item>
-    
-    <item>
-      <title>Characterising Forward-Line Formations in the Australian Football League</title>
-      <link>/project/2022-08-26-formations/</link>
-      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/project/2022-08-26-formations/</guid>
-      <description> Work in progress. Project is the final year thesis for the Master of Sport Analytics at La Trobe University. </description>
     </item>
     
     <item>
